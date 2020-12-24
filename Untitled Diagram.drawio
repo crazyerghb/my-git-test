@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T08:05:44.634Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jF5C90r54oYOSw4rIvCu" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T08:13:14.451Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="xN40_-Ap22AIBLIUec4h" version="14.1.2" type="github">
   <diagram id="8gqzO-sBCFq0tF3Lt717" name="Page-1">
-    <mxGraphModel dx="1837" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
         <mxCell id="kLUBncIEuIzbrDYKi5dw-260" value="酒店业务" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#56517e;fillColor=#d0cee2;fontSize=16;" vertex="1" parent="kLUBncIEuIzbrDYKi5dw-253">
           <mxGeometry x="55.5" y="192" width="189" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kLUBncIEuIzbrDYKi5dw-261" value="机场服务业务" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#56517e;fillColor=#d0cee2;fontSize=16;" vertex="1" parent="kLUBncIEuIzbrDYKi5dw-253">
+        <mxCell id="kLUBncIEuIzbrDYKi5dw-261" value="机场服务业务&lt;br&gt;（云天自营）" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#56517e;fillColor=#d0cee2;fontSize=16;" vertex="1" parent="kLUBncIEuIzbrDYKi5dw-253">
           <mxGeometry x="55.5" y="268" width="189" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kLUBncIEuIzbrDYKi5dw-262" value="地接" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#56517e;fillColor=#d0cee2;fontSize=16;" vertex="1" parent="kLUBncIEuIzbrDYKi5dw-253">
@@ -175,6 +175,40 @@
           <mxGeometry x="-0.4083" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kLUBncIEuIzbrDYKi5dw-282" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#A8201A;fillColor=#FAE5C7;fontSize=16;fontColor=#143642;" edge="1" parent="kLUBncIEuIzbrDYKi5dw-212" source="kLUBncIEuIzbrDYKi5dw-258" target="kLUBncIEuIzbrDYKi5dw-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="150" />
+              <mxPoint x="1030" y="140" />
+              <mxPoint x="473" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLUBncIEuIzbrDYKi5dw-283" value="1-直接对接机票" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#143642;" vertex="1" connectable="0" parent="kLUBncIEuIzbrDYKi5dw-282">
+          <mxGeometry x="-0.3435" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLUBncIEuIzbrDYKi5dw-286" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.963;entryY=-0.097;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fillColor=#FAE5C7;fontSize=16;fontColor=#143642;" edge="1" parent="kLUBncIEuIzbrDYKi5dw-212" source="kLUBncIEuIzbrDYKi5dw-258" target="kLUBncIEuIzbrDYKi5dw-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLUBncIEuIzbrDYKi5dw-287" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#A8201A;fillColor=#FAE5C7;fontSize=16;fontColor=#143642;" edge="1" parent="kLUBncIEuIzbrDYKi5dw-212" source="kLUBncIEuIzbrDYKi5dw-259" target="kLUBncIEuIzbrDYKi5dw-225">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1086" y="210" />
+              <mxPoint x="900" y="210" />
+              <mxPoint x="900" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLUBncIEuIzbrDYKi5dw-288" value="对接互联网提供商" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#143642;" vertex="1" connectable="0" parent="kLUBncIEuIzbrDYKi5dw-287">
+          <mxGeometry x="0.1127" y="2" relative="1" as="geometry">
+            <mxPoint x="15" y="-46.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLUBncIEuIzbrDYKi5dw-289" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.91;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fillColor=#FAE5C7;fontSize=16;fontColor=#143642;" edge="1" parent="kLUBncIEuIzbrDYKi5dw-212" source="kLUBncIEuIzbrDYKi5dw-260" target="kLUBncIEuIzbrDYKi5dw-225">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
